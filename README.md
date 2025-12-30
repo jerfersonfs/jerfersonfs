@@ -17,7 +17,7 @@ Atualmente estou em processo contínuo de aprendizado, aplicando conceitos prát
   
 ---
 
-## 📫 Contato
+##  Contatos:
 
 - 📧 Email: **jeefreitas315@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/jerferson-freitas](https://www.linkedin.com/in/jerferson-freitas/)

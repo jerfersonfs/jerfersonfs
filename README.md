@@ -1,16 +1,11 @@
 # Jerferson Freitas
 
-### Software Development Student | Information Technology
+### Software Developer | Information Technology
 
 Sou estudante de Tecnologia da Informação, com foco em desenvolvimento de software.  
-Atualmente estou em processo contínuo de aprendizado, aplicando conceitos práticos por meio de projetos pessoais e acadêmicos.
-
-I am an Information Technology student focused on software development, continuously improving my technical skills through practical projects and studies.
+Atualmente estou em processo contínuo de aprendizado, aplicando conceitos práticos por meio de projetos pessoais e acadêmicos para assim conquistar minha primeira vaga na área de programação.
 
 ---
-
-## 🧠 Áreas de Estudo e Tecnologias
-
 **Linguagens e Tecnologias em desenvolvimento contínuo:**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)

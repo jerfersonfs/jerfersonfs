@@ -34,8 +34,7 @@ Busco minha primeira oportunidade na área de desenvolvimento de software, onde 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jerfersonfs&show_icons=true&hide_border=true&theme=dark" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerfersonfs&layout=compact&hide_border=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=jerfersonfs" />
 </div>
 
 ---

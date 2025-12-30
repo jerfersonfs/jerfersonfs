@@ -14,24 +14,7 @@ Atualmente estou em processo contínuo de aprendizado, aplicando conceitos prát
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
----
-
-## 📌 Objetivo Profissional
-
-Busco minha primeira oportunidade na área de desenvolvimento de software, onde possa:
-- Consolidar fundamentos técnicos
-- Evoluir boas práticas de código
-- Contribuir com soluções reais em equipe
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jerfersonfs" />
-</div>
-
+  
 ---
 
 ## 📫 Contato

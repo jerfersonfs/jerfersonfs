@@ -1,6 +1,4 @@
-# Jerferson Freitas
-
-### Software Developer | Information Technology
+# Software Developer | Information Technology
 
 Sou estudante de Tecnologia da Informação, com foco em desenvolvimento de software.  
 Atualmente estou em processo contínuo de aprendizado, aplicando conceitos práticos por meio de projetos pessoais e acadêmicos para assim conquistar minha primeira vaga na área de programação.
@@ -24,8 +22,4 @@ Atualmente estou em processo contínuo de aprendizado, aplicando conceitos prát
 - 📷 Instagram: [@freitaz.j](https://instagram.com/freitaz.j)
 
 ---
-
-<div align="center">
-  <sub>Este perfil está em constante evolução, assim como meu aprendizado.</sub>
-</div>
 

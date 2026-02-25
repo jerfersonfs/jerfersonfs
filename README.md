@@ -14,6 +14,7 @@ Atualmente estou em processo contínuo de aprendizado, aplicando conceitos prát
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=oracle&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ---
 

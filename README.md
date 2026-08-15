@@ -1,20 +1,23 @@
 # Software Developer | Information Technology
 
 Sou estudante de Tecnologia da Informação, com foco em desenvolvimento de software.  
-Atualmente estou em processo contínuo de aprendizado, aplicando conceitos práticos por meio de projetos pessoais e acadêmicos para assim conquistar minha primeira vaga na área de programação.
+Atualmente estou em processo contínuo de aprendizado, aplicando conceitos práticos por meio de projetos pessoais e acadêmicos.
 
 ---
 **Linguagens e Tecnologias em desenvolvimento contínuo:**
 
-Stack atualmente:
+Stack atual:
+
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 Ferramentas de IA:
+
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
 
 Stacks que já utilizei:
+
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=databricks&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft&logoColor=white)

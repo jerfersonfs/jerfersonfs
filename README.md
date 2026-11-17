@@ -30,12 +30,6 @@ Stacks que já utilizei:
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ---
-
-##  Contatos:
-
-- 📧 Email: **jeefreitas315@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/jerferson-freitas](https://www.linkedin.com/in/jerferson-freitas/)
-- 📷 Instagram: [@freitaz.j](https://instagram.com/freitaz.j)
-
 ---
 
